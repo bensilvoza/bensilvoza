@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 .
 
-## My day-to-day work as a developer.
+## My day-to-day work as a programmer.
 Determines operational objectives by studying business functions; gathering information; evaluating output requirements and formats. Designs new computer programs by analyzing requirements; constructing workflow charts and diagrams; studying system capabilities; writing specifications.
 Improves systems by studying current practices; designing modifications.
 
