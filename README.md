@@ -20,6 +20,3 @@ Improves systems by studying current practices; designing modifications.
 
 ## Outside of work.
 Going out for a cup of coffee or for some healthy snack, meeting friends. When I have some free time, I take a bicycle and go for a ride, and spend an hour this really depends on my mood and energy levels.
-
-## Just hit the DM.
-I'm always glad to respond!
