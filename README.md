@@ -9,7 +9,7 @@ bensilvoza/bensilvoza is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-# Hello. 👋🏽
+# Hello.
 .
 
 .
@@ -20,3 +20,6 @@ Improves systems by studying current practices; designing modifications.
 
 ## Outside of work.
 Going out for a cup of coffee or for some healthy snack, meeting friends. When I have some free time, I take a bicycle and go for a ride, and spend an hour this really depends on my mood and energy levels.
+
+## I'm glad to respond
+You can message me here bensilvoza@gmail.com
